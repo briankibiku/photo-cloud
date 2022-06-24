@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "843630519617",
+    "project_id": "photobox-34f2e",
+    "storage_bucket": "photobox-34f2e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:843630519617:android:45823833da1e888b54adc0",
+        "android_client_info": {
+          "package_name": "com.b2k.photobox"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "843630519617-klupkhgev779omsjdetojadpq3q3mv8q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCReuj_Y45Vgo9h3CIjdoMs4H8zWPf0M7E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "843630519617-klupkhgev779omsjdetojadpq3q3mv8q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
